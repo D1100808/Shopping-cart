@@ -1,0 +1,20 @@
+.picture2{
+    display: none;
+}
+
+.btn{
+    border-width: 0;
+}
+
+.thumbnail:hover .picture1 {
+    display: none;
+}
+
+.thumbnail:hover .picture2 {
+    display: block;
+}
+
+.thumbnail:hover .btn{
+    border-width: 0;
+    background-color: #FFD700;
+}
